@@ -1,0 +1,3 @@
+issues :
+seems hardware but not sure mostly software
+seems confusion of pins between ESP board and the lora
